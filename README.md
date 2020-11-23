@@ -20,8 +20,8 @@
 [![Hantomi's github stats](https://github-stats-for-readme.hantomi.vercel.app/api?username=hantomi)](https://github.com/hantomi/hantomi)
 
 ### Random online Badges:
-![Discord](https://img.shields.io/discord/647027683259187220?color=0FFF00&label=Baguette&logo=Discord&style=social)
-![Discord](https://img.shields.io/discord/447762837566259201?label=Loli%20Robber&logo=discord&logoColor=0FFF00&style=social)
+![Discord](https://img.shields.io/discord/647027683259187220?color=0FFF00&label=Baguette&logo=discord&style=social) <br />
+![Discord](https://img.shields.io/discord/447762837566259201?color=0FFF00&label=Loli%20Robber&logo=discord&style=social)
 
 ### Connect with me:
 
