@@ -17,7 +17,7 @@
 
 
 ---
-[![Hantomi's github stats](https://github.com/anuraghazra/github-readme-stats.app/api?username=hantomi)](https://github.com/hantomi/hantomi)
+[![Hantomi's github stats](https://github-readme-stats.hantomi.vercel.app/api?username=hantomi)](https://github.com/hantomi/hantomi)
 
 ### Connect with me:
 
