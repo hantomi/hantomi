@@ -17,11 +17,10 @@
 
 
 ---
-[![Hantomi's github stats](https://github-stats-for-readme.hantomi.vercel.app/api?username=hantomi&show_icons=true&theme=synthwave)]
+[![Hantomi's github stats](https://github-stats-for-readme.hantomi.vercel.app/api?username=hantomi&show_icons=true&theme=synthwave&layout=compact)]
 
 ### Frequently used Language
-[![Top Langs](https://github-stats-for-readme.hantomi.vercel.app/api?username=hantomi&layout=compact)]
-
+[![Top Langs](https://github-stats-for-readme.hantomi.vercel.app/api/top-langs/?username=hantomi)](https://github.com/hantomi/hantomi)
 
 ### Random online Badges
 ![Discord](https://img.shields.io/discord/647027683259187220?color=0FFF00&label=Baguette&logo=discord&style=social) <br />
