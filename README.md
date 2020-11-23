@@ -17,7 +17,7 @@
 
 
 ---
-[![Hantomi's github stats](https://github-stats-for-readme.hantomi.vercel.app/api?username=hantomi)](https://github.com/hantomi/hantomi)
+[![Hantomi's github stats](https://github-stats-for-readme.hantomi.vercel.app/api?username=hantomi&show_icons=true&theme=synthwave)]
 
 ### Random online Badges:
 ![Discord](https://img.shields.io/discord/647027683259187220?color=0FFF00&label=Baguette&logo=discord&style=social) <br />
