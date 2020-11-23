@@ -4,9 +4,9 @@
 ## I'm a Student, a front-end back-end Developer and a Teacher.
 
 - 🌱 I’m currently learning everything 🤣
-- 📝 I’m looking for a better way to optimize the way I'm coding 🚀
-- 📈 2020 Goals: Be comtable with html, css, js and servlet coding 📰
-- ⚡ Fun fact: I'd love to enjoy some music, hanging around friends and noting experiences 🎼
+- 📝 I’m looking for a better way to optimize the way I'm coding 
+- 📈 2020 Goals: Be comtable with html, css, js and servlet coding 
+- ⚡ Fun fact: I'd love to enjoy some music, hanging around friends and noting experiences 
 
 ### Spotify Playing 🎧
 
