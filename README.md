@@ -3,7 +3,7 @@
 ![GitHub - Activity - Readme](https://github.com/hantomi/hantomi/workflows/GitHub%20-%20Activity%20-%20Readme/badge.svg?branch=main)
 
 ## I'm a Student, a front-end, back-end Developer  <img height="40" src="util/kyubey.gif"/>
-<img src="util/VRChat_1920x1080_2020-05-09_11-57-10.862.png" align="right" width="215" hight="430"/>
+
 - 🌱 I’m currently learning everything 🤣
 - 📝 I’m looking for a better way to optimize the way I'm coding 
 - 📈 2020 Goals: Be comtable with html, css, js and servlet coding 
