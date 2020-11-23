@@ -8,7 +8,7 @@
 - 📈 2020 Goals: Be comtable with html, css, js and servlet coding 
 - ⚡ Fun fact: I'd love to enjoy some music, hanging around friends and noting experiences 
 
-### Spotify Playing 🎧
+### Listening to Spotify 🎧
 
 [<img src="https://spotify-playing.hantomi.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/31t57wjxnigmupx6b67lkvvd5cpq)
 
