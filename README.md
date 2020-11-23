@@ -17,7 +17,9 @@
 
 
 ---
+
 [![Hantomi's github stats](https://github-stats-for-readme.hantomi.vercel.app/api?username=hantomi&show_icons=true&theme=synthwave&layout=compact)](https://github.com/hantomi)
+
 ---
 
 ### Random online Badges 👬
