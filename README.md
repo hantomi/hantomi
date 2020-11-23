@@ -19,8 +19,8 @@
 ---
 [![Hantomi's github stats](https://github-stats-for-readme.hantomi.vercel.app/api?username=hantomi&show_icons=true&theme=synthwave)]
 
-### Frequently used language
-[![Top Langs](https://github-stats-for-readme.hantomi.vercel.app/api/top-langs/?username=hantomi)]
+### Frequently used Language
+[![Top Langs](https://github-stats-for-readme.hantomi.vercel.app/api?username=hantomi&layout=compact)]
 
 
 ### Random online Badges
