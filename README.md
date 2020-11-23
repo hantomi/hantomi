@@ -2,7 +2,7 @@
 
 ![GitHub - Activity - Readme](https://github.com/hantomi/hantomi/workflows/GitHub%20-%20Activity%20-%20Readme/badge.svg?branch=main)
 
-## I'm a Student, a front-end, back-end Developer  <img height="40" src="https://https://github.com/hantomi/hantomi/tree/main/util/kyubey.gif"/>
+## I'm a Student, a front-end, back-end Developer  <img height="40" src="https://github.com/hantomi/hantomi/tree/main/util/kyubey.gif"/>
 
 - 🌱 I’m currently learning everything 🤣
 - 📝 I’m looking for a better way to optimize the way I'm coding 
