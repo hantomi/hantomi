@@ -21,8 +21,6 @@
 
 [![Hantomi's github stats](https://github-stats-for-readme.hantomi.vercel.app/api?username=hantomi&show_icons=true&theme=radical&layout=compact)](https://github.com/hantomi)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hantomi&theme=radical)
-
 ---
 
 ### Random online Badges 👬
