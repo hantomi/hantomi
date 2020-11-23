@@ -1,7 +1,7 @@
 ### Hi there, I'm Long - aka [Hantomi][website] 👋
 
 
-## I'm a Student, a front-end, back-end Developer and a Teacher
+## I'm a Student, a front-end, back-end Developer 
 
 - 🌱 I’m currently learning everything 🤣
 - 📝 I’m looking for a better way to optimize the way I'm coding 
@@ -26,6 +26,13 @@
 ### Random online Badges 👬
 ![Discord](https://img.shields.io/discord/647027683259187220?color=0FFF00&label=Baguette&logo=discord&style=social) <br />
 ![Discord](https://img.shields.io/discord/447762837566259201?color=0FFF00&label=Loli%20Robber&logo=discord&style=social)
+
+---
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
 
 ### Connect with me 👐
 
