@@ -10,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-six-ashy.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31t57wjxnigmupx6b67lkvvd5cpq)
+[<img src="https://novatorem.hantomi.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/31t57wjxnigmupx6b67lkvvd5cpq)
 
 
 <h3 align="left">Languages and Tools:</h3>
