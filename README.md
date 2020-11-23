@@ -30,6 +30,7 @@
 ---
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#1](https://github.com/hantomi/hantomi/issues/1) in [hantomi/hantomi](https://github.com/hantomi/hantomi)
 <!--END_SECTION:activity-->
 
 ---
