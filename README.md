@@ -1,7 +1,7 @@
 ### Hi there, I'm Long - aka [Hantomi][website] 👋
 
 
-## I'm a Student, a front-end back-end Developer and a Teacher.
+## I'm a Student, a front-end, back-end Developer and a Teacher
 
 - 🌱 I’m currently learning everything 🤣
 - 📝 I’m looking for a better way to optimize the way I'm coding 
