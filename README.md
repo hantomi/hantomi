@@ -19,11 +19,15 @@
 ---
 [![Hantomi's github stats](https://github-stats-for-readme.hantomi.vercel.app/api?username=hantomi&show_icons=true&theme=synthwave)]
 
-### Random online Badges:
+### Frequently used language
+[![Top Langs](https://github-stats-for-readme.hantomi.vercel.app/api/top-langs/?username=hantomi)]
+
+
+### Random online Badges
 ![Discord](https://img.shields.io/discord/647027683259187220?color=0FFF00&label=Baguette&logo=discord&style=social) <br />
 ![Discord](https://img.shields.io/discord/447762837566259201?color=0FFF00&label=Loli%20Robber&logo=discord&style=social)
 
-### Connect with me:
+### Connect with me
 
 [<img align="left" alt="github/hantomi" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="hantomi | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
