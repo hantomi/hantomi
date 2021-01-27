@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 📝 I’m looking for a better way to optimize the way I'm coding 
-- 📈 2020 Goals: Be comtable with html, css, js and servlet coding 
+- 📈 2021 Goals: Be comtable with C#. Learn Python. Perfecting requierment analysis
 - ⚡ Fun fact: I'd love to enjoy some music, hanging around friends and noting experiences 
 
 ### Listening to Spotify 🎧
