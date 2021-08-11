@@ -23,11 +23,6 @@
 
 ---
 
-### Random online Badges 👬
-![Discord](https://img.shields.io/discord/647027683259187220?color=0FFF00&label=Baguette&logo=discord&style=social) <br />
-![Discord](https://img.shields.io/discord/447762837566259201?color=0FFF00&label=Loli%20Robber&logo=discord&style=social)
-
-
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
