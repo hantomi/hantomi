@@ -11,7 +11,7 @@
 
 ### Listening to Spotify 🎧
 
-[<img src="https://spotify-playing.hantomi.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/31t57wjxnigmupx6b67lkvvd5cpq)
+[![Spotify](https://https://novatorem-spotify-hantomi.vercel.app/api/spotify)](https://open.spotify.com/user/3747f81a9f954d2aaf648e2d6b556d5c)
 
 ---
 
