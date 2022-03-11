@@ -6,8 +6,8 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 📝 I’m looking for a better way to optimize the way I'm coding 
-- 📈 2021 Goals: Be comtable with C#. Learn Python. Perfecting requierment analysis
-- ⚡ Fun fact: I'd love to enjoy some music, hanging around friends and noting experiences 
+- 📈 2022 Goals: Be comtable with API creating.
+- ⚡ Fun fact: I'd love to enjoy some music, hanging around friends and noting experiences from other.
 
 ### Listening to Spotify 🎧
 
